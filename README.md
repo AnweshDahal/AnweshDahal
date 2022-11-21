@@ -2,7 +2,7 @@
 
 # **Hi I'm Anwesh 👋🏽👨🏽‍💻**
 
-I am an IT student from Nepal. I love learning and creating new things. 
+_Web Developer from Nepal_
 
 ### Technologies and tools I have used
 
